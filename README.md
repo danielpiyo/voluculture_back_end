@@ -1,1 +1,2 @@
-# voluculture_front_end
+# voluculture_backend_end
+# Node files with connection to Mysql database
